@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "zhouDemo2.data.unityweb",
+"asmCodeUrl": "zhouDemo2.asm.code.unityweb",
+"asmMemoryUrl": "zhouDemo2.asm.memory.unityweb",
+"asmFrameworkUrl": "zhouDemo2.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
